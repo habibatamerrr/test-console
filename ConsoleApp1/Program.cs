@@ -10,6 +10,8 @@ namespace PS
             inits = Initials("Michael", "Mason", "McMillan");
             Console.WriteLine(inits);
 
+            string gg = "AFDASG";
+
         }
         public static string Initials(string fname, string mname, string lname)
         {
